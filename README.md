@@ -25,7 +25,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 
-### Page Deployed URL: 
+### Page Deployed URL: https://berheamanuel.github.io/horiseon-website-restructure/
 
 
 
